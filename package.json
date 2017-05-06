@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-pincheck",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Checks whether the device has pin passcode setup on device",
   "cordova": {
     "id": "cordova-plugin-pincheck",
@@ -16,10 +16,16 @@
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
-    "cordova-ios"
+    "cordova-ios",
+    "pin",
+    "pin check",
+    "passcode",
+    "pass code",
+    "keyguard",
+    "key guard"
   ],
   "author": "Lim Shang Yi",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/shangyilim/cordova-plugin-pincheck/issues"
   },
