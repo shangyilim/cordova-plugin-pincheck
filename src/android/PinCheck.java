@@ -11,7 +11,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /**
- * This class echoes a string called from JavaScript.
+ * This class returns a string depending on whether the keyguard is detected on Android. This method is called from JavaScript.
  */
 public class PinCheck extends CordovaPlugin {
 
