@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-pincheck",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Checks whether the device has pin passcode setup on device",
   "cordova": {
     "id": "cordova-plugin-pincheck",
